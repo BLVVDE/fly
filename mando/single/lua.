@@ -107,3 +107,9 @@
 		end
 	end)
 	start()
+ 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "_,Shogrims Vault ";
+    Text = "Script Loaded.";
+
+})
