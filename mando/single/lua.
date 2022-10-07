@@ -109,7 +109,7 @@
 	start()
  
 game.StarterGui:SetCore("SendNotification", {
-    Title = " Fly "X"";
+    Title = " Fly 'X'";
     Text = "Fly Loaded.";
 
 })
